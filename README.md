@@ -4,6 +4,11 @@ A collection of resources on dynamic/streaming/temporal/evolving graph processin
 ## Contributing
 To add, remove or change things on the list, just ask to be added as a contributor and I'll add you.
 
+## Temporal Graph Learning
+
+* [Temporal Graph Learning in 2023](https://towardsdatascience.com/temporal-graph-learning-in-2023-d28d1640dbf2)
+* Amazon TGL: [repo](https://github.com/amazon-science/tgl), [paper](https://assets.amazon.science/88/aa/0323050941cab9403763ffdde180/tgl-a-general-framework-for-temporal-gnn-training-on-billion-scale-graphs-scalable-data-science.pdf)
+
 ## Open Source Projects
 ### Data Structures, Systems and Frameworks
 * [Aspen](https://github.com/ldhulipala/aspen) [C++]
