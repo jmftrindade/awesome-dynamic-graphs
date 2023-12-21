@@ -37,11 +37,23 @@ To add, remove or change things on the list:
 * [PCSR](https://github.com/wheatman/Packed-Compressed-Sparse-Row/) [C++]
     * CSR-inspired, packed memory array based data structure for streaming graphs
     * [Paper](https://ieeexplore.ieee.org/document/8547566)
+* [Phasik](https://gitlab.com/habermann_lab/phasik)[Python]
+    * Identify system states in partially temporal networks
+    * [Paper](https://t.co/QhJogGfKoa)](https://joss.theoj.org/papers/10.21105/joss.05872)
+    * [Tweet](https://twitter.com/maximelca/status/1737805912335700352)
 * [PPCSR](https://github.com/domargan/parallel-packed-csr) [C++]
     * Parallel and NUMA-aware implementation of PCSR data structure for streaming graphs
 * [Raphtory](https://github.com/Raphtory/Raphtory) [Scala]
     * Snapshot-based distributed streaming graph processing system
     * [Paper](https://www.sciencedirect.com/science/article/pii/S0167739X19301621)
+* [Raphtory (v2?)](https://github.com/Pometry/Raphtory) [Rust]
+    * Package for "representing, analyzing, and visualizing temporal and static graphs and hypergraphs."
+* [Reticula](https://docs.reticula.network/)[Python]
+    * Python wrapper of C++ functions to represente, analyze, and visualize temporal and static graphs and hypergraphs.
+* [Tacoma](https://github.com/benmaier/tacoma)[Python]
+    * Represent, analyze, and visualize temporal networks.
+* [Teneto](https://github.com/wiheto/teneto)[Python]
+    * Represent, analyze, and visualize temporal networks.
 * [STINGER](https://github.com/stingergraph/stinger) [C/C++]
     * Data structure for streaming graphs based on linked lists of blocks
     * [Paper](https://ieeexplore.ieee.org/document/6408680)
