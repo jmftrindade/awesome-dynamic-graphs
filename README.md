@@ -2,9 +2,7 @@
 A collection of resources on dynamic/streaming/temporal/evolving graph processing systems, databases, data structures, datasets, and related academic and industrial work.
 
 ## Contributing
-To add, remove or change things on the list:
-[please submit a pull request to the GitHub repository](https://github.com/domargan/awesome-dynamic-graphs).
-
+To add, remove or change things on the list, just ask to be added as a contributor and I'll add you.
 
 ## Open Source Projects
 ### Data Structures, Systems and Frameworks
