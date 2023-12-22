@@ -212,4 +212,6 @@ Note: Very small datasets are not included in the list.
 
 
 ## About
-This list was compiled by [Domagoj Margan](https://github.com/domargan) with help and resources from the systems community.
+This list was initially compiled by [Domagoj Margan](https://github.com/domargan) with help and resources from the systems community, and made available on github under [awesome-temporal-graphs](https://github.com/domargan/awesome-dynamic-graphs). It is no longer actively maintained there, so keeping this one here.
+
+Feel free to request contributor access to this one instead to help improve it :)
