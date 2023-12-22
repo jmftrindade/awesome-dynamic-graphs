@@ -9,6 +9,7 @@ To add, remove or change things on the list, just ask to be added as a contribut
 ## Temporal Graph Learning
 
 * [Temporal Graph Learning in 2023](https://towardsdatascience.com/temporal-graph-learning-in-2023-d28d1640dbf2)
+* Temporal Graph Learning Benchmark: [website](https://tgb.complexdatalab.com/), [repo](https://github.com/shenyangHuang/TGB),  [paper](https://arxiv.org/abs/2307.01026)
 * Amazon TGL: [repo](https://github.com/amazon-science/tgl), [paper](https://assets.amazon.science/88/aa/0323050941cab9403763ffdde180/tgl-a-general-framework-for-temporal-gnn-training-on-billion-scale-graphs-scalable-data-science.pdf)
 
 ## Open Source Projects
