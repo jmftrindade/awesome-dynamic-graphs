@@ -1,5 +1,7 @@
 # Awesome Temporal Graphs
-A collection of resources on dynamic/streaming/temporal/evolving graph processing systems, databases, data structures, datasets, and related academic and industrial work.
+A collection of resources on dynamic/streaming/temporal/evolving graph processing systems, databases, data structures, datasets, and related academic and industrial work. Originally at [awesome-dynamic-graphs](https://github.com/domargan/awesome-dynamic-graphs), which is unfortunately no longer actively maintained.
+
+This one also includes temporal graph learning systems :)
 
 ## Contributing
 To add, remove or change things on the list, just ask to be added as a contributor and I'll add you.
