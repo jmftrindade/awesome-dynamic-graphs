@@ -22,6 +22,9 @@ To add, remove or change things on the list, just ask to be added as a contribut
 * [Differential Dataflow](https://github.com/frankmcsherry/differential-dataflow) [Rust]
     * General data-parallel programming framework suitable for processing large dynamic graphs
     * [Paper](http://michaelisard.com/pubs/differentialdataflow.pdf)
+* [Everest](https://github.com/yichao-yuan-99/Everest)
+    * System for mining temporal motifs using GPU
+    * [Paper](https://cs.paperswithcode.com/paper/everest-gpu-accelerated-system-for-mining)   
 * [GraphBolt](https://github.com/pdclab/graphbolt) [C++]
     * Streaming graph processing system that provides BSP guarantees 
     * [Paper](https://dl.acm.org/doi/10.1145/3302424.3303974)
