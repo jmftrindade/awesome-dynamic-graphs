@@ -217,6 +217,7 @@ Note: Very small datasets are not included in the list.
 |     Rating network     	|          Epinions         	|     epinions-rating     	|  Bipartite, undirected 	|   User, product   	|         Rating        	|    876,252   	|   13,668,320   	|      N      	|        Y        	|        Y       	|     http://konect.cc/networks/epinions-rating/     	|
 |     Rating network     	|          Netflix          	|         netflix         	|  Bipartite, undirected 	|    User, movie    	|         Rating        	|    497,959   	|   100,480,507  	|      Y      	|        Y        	|        N       	|         http://konect.cc/networks/netflix/         	|
 |     Rating network     	|           Yahoo           	|        yahoo-song       	|  Bipartite, undirected 	|    Person, song   	|         Rating        	|   1,625,951  	|   256,804,235  	|      Y      	|        Y        	|        N       	|        http://konect.cc/networks/yahoo-song/       	|
+| Transaction Network      |     OpenSea NFT Sales       |         nft-sales        | Bipartite, undirected    |       User, NFT    |         Purchase         |    532,945      |             6,071,027     |      Y       |        Y           |        Y        |           https://osf.io/wsnzr/         |
 
 
 
